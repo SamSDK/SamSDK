@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey there, I'm Sam! 🚀</h1>
 <h3 align="center">🎓 Software Engineering Grad | Biotech Enthusiast | Creative Seeker 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamSDK&label=Profile%20views&color=0e75b6&style=flat" alt="SamSDK" /> </p>
-📫 Let's connect! Drop me a line at samsdk@hotmail.com
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sam-singh-439907132" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
 </p>
+📫 Drop me a line at samsdk@hotmail.com
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <p align="left">
