@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hey there, I'm Sam! 🚀</h1>
-<h3 align="center">🎓 Software Engineering Grad | Innovator Extraordinaire | Code Craftsman 🌟</h3>
+<h3 align="center">🎓 Software Engineering Grad | Biotech Enthusiast | Creative Seeker 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamSDK&label=Profile%20views&color=0e75b6&style=flat" alt="SamSDK" /> </p>
 📫 Let's connect! Drop me a line at samsdk@hotmail.com
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/samsdk" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://twitter.com/samsdk" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/sam-singh-439907132" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
 </p>
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
@@ -22,4 +21,5 @@
 🔥 GitHub Streak 🔥
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamSDK&theme=dark&hide_border=true" alt="SamSDK" /></p>
-🚀 Let's build the future, one line of code at a time! 🚀
+
+🚀 Let's build a more human future
