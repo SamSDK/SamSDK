@@ -16,6 +16,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamSDK&show_icons=true&theme=dracula&title_color=ef4444&text_color=ffffff&bg_color=181824&locale=en&layout=compact&hide_border=true" alt="SamSDK" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yellowsub12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="yellowsub12" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SamSDK&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="SamSDK" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowsub12&theme=dark&hide_border=true" alt="yellowsub12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamSDK&theme=dark&hide_border=true" alt="SamSDK" /></p>
