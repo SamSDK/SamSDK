@@ -14,12 +14,8 @@
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yellowsub12&show_icons=true&theme=dracula&title_color=ef4444&text_color=ffffff&bg_color=181824&locale=en&layout=compact&hide_border=true" alt="yellowsub12" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamSDK&show_icons=true&theme=dracula&title_color=ef4444&text_color=ffffff&bg_color=181824&locale=en&layout=compact&hide_border=true" alt="SamSDK" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yellowsub12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="yellowsub12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowsub12&theme=dark&hide_border=true" alt="yellowsub12" /></p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/yellowsub12"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yellowsub12" /></a></p><br><br>
